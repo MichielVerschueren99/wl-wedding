@@ -103,14 +103,14 @@ h5 {
 }
 
 section.intro,
-section.features-extra,
-section.rsvp {
+section.features-extra {
     background: #fff
 }
 
 section.features,
 section.events,
-section.blog {
+section.blog,
+section.rsvp {
     background: #f8f9fd
 }
 
